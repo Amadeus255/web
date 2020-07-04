@@ -1,0 +1,18 @@
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.option-box .gear-check,
+#scroll-top {background-color: #17e482}
+
+.navbar-brand span,
+.about h1 span,
+.footer h3,
+.footer .copyright span,
+.testemonial .carousel-inner span {color: #17e482}
+
+.dropdown-menu {border-top-color: #17e482}
+
+.option-box .color-option,
+.testemonial .carousel-indicators li.active {border-color: #17e482}
